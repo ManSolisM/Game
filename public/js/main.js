@@ -3,15 +3,15 @@
         window.cambiarFondoAleatorio = function() {
             const fondosDBZ = [
                 // Rutas locales de tus imágenes de escenarios de pelea
-                './public/img/fondos/img1.jpeg',
-                './public/img/fondos/img2.jpeg',
-                './public/img/fondos/img3.jpeg',
-                './public/img/fondos/img4.jpeg',
-                './public/img/fondos/img5.jpeg',
-                './public/img/fondos/img6.jpeg',
-                './public/img/fondos/img7.jpeg',
-                './public/img/fondos/img8.jpeg',
-                './public/img/fondos/img9.jpeg'
+                './public/img/Fondos/img1.jpeg',
+                './public/img/Fondos/img2.jpeg',
+                './public/img/Fondos/img3.jpeg',
+                './public/img/Fondos/img4.jpeg',
+                './public/img/Fondos/img5.jpeg',
+                './public/img/Fondos/img6.jpeg',
+                './public/img/Fondos/img7.jpeg',
+                './public/img/Fondos/img8.jpeg',
+                './public/img/Fondos/img9.jpeg'
             ];
             
             // Seleccionar un fondo aleatorio
